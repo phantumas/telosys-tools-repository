@@ -47,7 +47,7 @@ public class RepositoryConst {
 	// v 2.1.1
 	//public final static SimpleDateFormat DATE_TIME_ISO_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
-	public static final String COLLECTION_JAVA_TYPE = "java.util.List";
+	public static final String COLLECTION_JAVA_TYPE = "java.util.Set";
 	
 	public final static String MAPPING_ONE_TO_ONE   = "OneToOne";
 	public final static String MAPPING_ONE_TO_MANY  = "OneToMany";
